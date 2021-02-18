@@ -6,8 +6,7 @@
 ## 文件說明
 * create_model.ipynb - 製作model
 * predict_aml.ipynb - predict function
-* api - 使用flask 將model佈署至GCP
-* scraper - 爬蟲程式 
+* api - 使用flask 將model佈署至GCP 
 * docs - 相關說明文件
 ## pre-trained model
 * [BERT](https://github.com/google-research/bert)
